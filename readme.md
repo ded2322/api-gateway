@@ -7,7 +7,7 @@
 
 Микросервисы:
 - Микросервис отвечающий за регистрацию пользователей: https://github.com/ded2322/auth-microservice.git
-- Микросервис отвечающий за загрузку видео: https://github.com/ded2322/video-upload-service.git
+- Микросервис отвечающий за загрузку видео: https://github.com/ded2322/upload-microservice.git
 - Микросервис отвечающий за показ видео: https://github.com/ded2322/streaming-microservice.git
 
 ## Как запустить
